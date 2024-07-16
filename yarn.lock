@@ -2027,9 +2027,9 @@ mocha@^10.2.0:
     yargs-unparser "2.0.0"
 
 moo@^0.5.0:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/moo/-/moo-0.5.1.tgz#7aae7f384b9b09f620b6abf6f74ebbcd1b65dbc4"
-  integrity sha512-I1mnb5xn4fO80BH9BLcF0yLypy2UKl+Cb01Fu0hJRkJjlCRtxZMWkTdAtDd5ZqCOxtCkhmRwyI57vWT+1iZ67w==
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/moo/-/moo-0.5.2.tgz#f9fe82473bc7c184b0d32e2215d3f6e67278733c"
+  integrity sha512-iSAJLHYKnX41mKcJKjqvnAN9sf0LMDTXDEvFv+ffuRR9a1MIuXLjMNL6EsnDHSkKLTWNqQQ5uo61P4EbU4NU+Q==
 
 morgan@^1.6.1:
   version "1.10.0"
@@ -2666,9 +2666,9 @@ slash@^3.0.0:
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
 sql-formatter@^15.3.1:
-  version "15.3.1"
-  resolved "https://registry.yarnpkg.com/sql-formatter/-/sql-formatter-15.3.1.tgz#e988861d172827b856470a9baefa0135737227df"
-  integrity sha512-L/dqan+Hrt0PpPdCbHcI9bdfOvqaQZR7v5c5SWMJ3bUGQSezK09Mm9q2I3B4iObjaq7FyoldIM+fDSmfzGRXCA==
+  version "15.3.2"
+  resolved "https://registry.yarnpkg.com/sql-formatter/-/sql-formatter-15.3.2.tgz#696fb84c3ce6d368b0d16248a605aa0e7a41751e"
+  integrity sha512-pNxSMf5DtwhpZ8gUcOGCGZIWtCcyAUx9oLgAtlO4ag7DvlfnETL0BGqXaISc84pNrXvTWmt8Wal1FWKxdTsL3Q==
   dependencies:
     argparse "^2.0.1"
     get-stdin "=8.0.0"
